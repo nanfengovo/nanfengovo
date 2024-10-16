@@ -4,6 +4,11 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=nanfengovo)
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nanfengovo)
 ![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=nanfengovo)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nanfengovo/nanfengovo/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nanfengovo/nanfengovo/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nanfengovo/nanfengovo/output/github-contribution-grid-snake.svg">
+</picture>
 
 <!--
 **nanfengovo/nanfengovo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
