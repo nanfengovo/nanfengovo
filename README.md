@@ -2,7 +2,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nanfengovo)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nanfengovo)
 ![trophy](https://github-profile-trophy.vercel.app/?username=nanfengovo)
-![visitors](https://visitor-badge.glitch.me/badge?username=nanfengovo&left_color=green&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?nanfengovo=page.id&left_color=green&right_color=red)
 
 <!--
 **nanfengovo/nanfengovo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
