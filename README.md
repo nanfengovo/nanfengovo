@@ -1,28 +1,39 @@
 <!-- 顶部动态流体星空横幅 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=200&section=header&text=Nanfeng%20(南枫)&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Industrial%20Software%20Architect%20%7C%20Exploring%20AI%20Agents&descAlignY=55&descAlign=50"/>
 
-<!-- 炫酷的动态打字机效果 -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+Smart+Manufacturing+Systems+🏭;Crafting+AI-Driven+Trading+Agents+🧠;Full-Stack+Engineer+(.NET%2FReact)+💻&center=true&width=650&height=50&color=38BDF8">
 </h1>
+
+<!-- 为求职/展示量身定制的高级简介 -->
+<div align="center">
+  <p><i>"Bridging the gap between Industrial IoT (Smart Manufacturing) and AI-driven Agents." 🚀</i></p>
+  <br/>
+  <b>🔭 Current Focus:</b> Transitioning from C#/.NET Industrial Logistics Architect (AGV/RCS/WCS) to Python AI Agent Developer.<br/>
+  <b>⚡ Superpowers:</b> PLC Hardware Communication (ModbusTCP), High-Concurrency Dispatch Systems, and LLM ReAct Frameworks.<br/>
+  <b>🌱 Learning:</b> Deeply exploring Quantitative Finance and Autonomous Trading Agents.
+</div>
+
+<br/>
+
+### 🏆 极客荣誉墙 (GitHub Trophies)
+<!-- 自动计算你的评级并生成奖杯，节点非常稳定 -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nanfengovo&theme=gitdimmed&row=1&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=true" />
+</div>
 
 <br/>
 
 ### 🛠️ 核心技术栈 (Tech Stack)
 <div align="center">
   <a href="https://skillicons.dev">
-    <!-- 技能图标矩阵，自动居中排列 -->
     <img src="https://skillicons.dev/icons?i=cs,dotnet,python,vue,react,ts,vite,mysql,redis,docker,linux,git&theme=dark&perline=12" />
   </a>
 </div>
 
-<p align="center">
-  <sub><b>Domain Expertise:</b> Smart Manufacturing (AGV/RCS) • PLC (ModbusTCP) • AI Agents (LLM) • Enterprise Identity</sub>
-</p>
-
 <br/>
 
-### 🚀 核心开源矩阵 (Featured Projects)
+### 🚀 核心架构矩阵 (Featured Projects)
 
 <table><tr><td width="50%" valign="top">
 
@@ -44,7 +55,7 @@ Industrial-grade <b>Robot Control Systems (RCS)</b> and <b>Warehouse Control Sys
 
 <h3 align="center">🧠 AI Agents & Quant Finance</h3>
 <p align="center">
-Diving deep into the intersection of AI and Finance. Building autonomous agents capable of <b>quantitative analysis</b>, powered by LLM routing (Gemini) and reasoning frameworks.
+Diving deep into the intersection of AI and Finance. Building autonomous agents capable of <b>quantitative analysis</b>, powered by LLM routing and reasoning frameworks.
 </p>
 <p align="center">
 <a href="https://github.com/nanfengovo/Agent">Quant Trading Agent</a> • 
@@ -74,18 +85,16 @@ Robust enterprise solutions focusing on identity management, authentication syst
 
 <br/>
 
-### 📊 极客数据分析 (GitHub Stats)
+### 📈 活跃度分析 (Activity)
 
 <div align="center">
-  <!-- 左侧：基础数据统计 -->
-  <img src="https://github-readme-stats.vercel.app/api?username=nanfengovo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165" />
-  <!-- 右侧：最常用编程语言雷达 -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nanfengovo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165" />
+  <!-- 替换为全球极速 CDN 节点，展示你最长连续写代码的天数 -->
+  <img src="https://streak-stats.demolab.com?user=nanfengovo&theme=tokyonight&hide_border=true&background=0D1117" />
 </div>
 
 <br/>
 
 <div align="center">
-  <!-- 隐形的访客计数器，改用高级黑客风格徽章 -->
+  <!-- 访客计数器 -->
   <img src="https://komarev.com/ghpvc/?username=nanfengovo&color=38BDF8&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
