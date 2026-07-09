@@ -1,11 +1,12 @@
 <!-- 顶部动态流体星空横幅 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=200&section=header&text=Nanfeng%20(南枫)&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Industrial%20Software%20Architect%20%7C%20Exploring%20AI%20Agents&descAlignY=55&descAlign=50"/>
 
+<!-- 炫酷的动态打字机效果 -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+Smart+Manufacturing+Systems+🏭;Crafting+AI-Driven+Trading+Agents+🧠;Full-Stack+Engineer+(.NET%2FReact)+💻&center=true&width=650&height=50&color=38BDF8">
 </h1>
 
-<!-- 为求职/展示量身定制的高级简介 -->
+<!-- 你的极客宣言 -->
 <div align="center">
   <p><i>"Bridging the gap between Industrial IoT (Smart Manufacturing) and AI-driven Agents." 🚀</i></p>
   <br/>
@@ -16,24 +17,26 @@
 
 <br/>
 
-### 🏆 极客荣誉墙 (GitHub Trophies)
-<!-- 自动计算你的评级并生成奖杯，节点非常稳定 -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nanfengovo&theme=gitdimmed&row=1&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=true" />
-</div>
+### 💡 技术高光 (Technical Highlights)
+
+- 🌐 **Industrial Edge to Cloud**: Built high-concurrency AGV (Automated Guided Vehicle) dispatch systems that coordinate physical hardware in real-time, bridging the gap between C# WinForm/WPF interfaces and .NET WebAPI backends.
+- ⚡ **Hardware Integration**: Extensive experience in industrial IoT, specifically in communicating directly with PLC hardware via ModbusTCP protocols, ensuring millisecond-level latency for semiconductor factory logistics.
+- 🤖 **AI Agent Pioneer**: Currently expanding into the AI frontier. Developing quantitative finance agents (Invest Brain) from scratch using Python, FastAPI, and LLM reasoning frameworks (ReAct pattern) to automate complex trading logic.
+- 🔐 **Full-Stack Security**: Architected robust enterprise-level authentication and authorization systems (OverallAuth) coupled with modern, reactive frontend dashboards (Vue 3 / React).
 
 <br/>
 
 ### 🛠️ 核心技术栈 (Tech Stack)
 <div align="center">
   <a href="https://skillicons.dev">
+    <!-- 自动生成的深色技能图标矩阵 -->
     <img src="https://skillicons.dev/icons?i=cs,dotnet,python,vue,react,ts,vite,mysql,redis,docker,linux,git&theme=dark&perline=12" />
   </a>
 </div>
 
 <br/>
 
-### 🚀 核心架构矩阵 (Featured Projects)
+### 🚀 核心开源矩阵 (Featured Projects)
 
 <table><tr><td width="50%" valign="top">
 
@@ -85,16 +88,19 @@ Robust enterprise solutions focusing on identity management, authentication syst
 
 <br/>
 
-### 📈 活跃度分析 (Activity)
+### 🐍 GitHub 贡献图贪吃蛇大作战 (Contributions)
 
 <div align="center">
-  <!-- 替换为全球极速 CDN 节点，展示你最长连续写代码的天数 -->
-  <img src="https://streak-stats.demolab.com?user=nanfengovo&theme=tokyonight&hide_border=true&background=0D1117" />
+  <!-- ⚠️ 注意：这张图片是在你第一步跑完 Action 后才会真正生成的！如果你还没跑 Action，它暂时会裂开，跑完后刷新页面就会立刻变成超级炫酷的动图！ -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nanfengovo/nanfengovo/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nanfengovo/nanfengovo/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nanfengovo/nanfengovo/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
 </div>
 
 <br/>
 
 <div align="center">
-  <!-- 访客计数器 -->
   <img src="https://komarev.com/ghpvc/?username=nanfengovo&color=38BDF8&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
