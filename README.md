@@ -61,6 +61,7 @@ Industrial-grade <b>Robot Control Systems (RCS)</b> and <b>Warehouse Control Sys
 Diving deep into the intersection of AI and Finance. Building autonomous agents capable of <b>quantitative analysis</b>, powered by LLM routing and reasoning frameworks.
 </p>
 <p align="center">
+<a href="https://github.com/nanfengovo/SIDEA-Agent/tree/vibe">SIDEA Agent</a>• 
 <a href="https://github.com/nanfengovo/AgentDemo">Quant Trading Agent</a> • 
 <a href="https://github.com/nanfengovo/invest-brain">Invest Brain</a>
 </p>
