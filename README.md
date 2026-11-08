@@ -19,6 +19,7 @@
 
 ### 💡 技术高光 (Technical Highlights)
 
+- 🌟 **Next-Gen AI Agent OS**: Architected **BetterMe Agent OS** (macOS Native & Web), bridging dual-client workspaces with multi-window acrylic glass management, 8K wallpaper rendering, and integration of the `voyager-so/vork` headless 3D Metal raytracing engine for automated physical asset generation.
 - 🌐 **Industrial Edge to Cloud**: Built high-concurrency AGV (Automated Guided Vehicle) dispatch systems that coordinate physical hardware in real-time, bridging the gap between C# WinForm/WPF interfaces and .NET WebAPI backends.
 - ⚡ **Hardware Integration**: Extensive experience in industrial IoT, specifically in communicating directly with PLC hardware via ModbusTCP protocols, ensuring millisecond-level latency for semiconductor factory logistics.
 - 🤖 **AI Agent Pioneer**: Currently expanding into the AI frontier. Developing quantitative finance agents (Invest Brain) from scratch using Python, FastAPI, and LLM reasoning frameworks (ReAct pattern) to automate complex trading logic.
@@ -38,7 +39,26 @@
 
 ### 🚀 核心开源矩阵 (Featured Projects)
 
-<table><tr><td width="50%" valign="top">
+<table><tr><td colspan="2" valign="top">
+
+<h3 align="center">🌟 BetterMe Agent OS (macOS & Web)</h3>
+<p align="center">
+Next-generation <b>Local-First AI Career & Workspace Operating System</b>. Features an Electron 34 native macOS client, multi-tasking acrylic glass window manager, 8K ultra-HD wallpaper ecosystem, <b>voyager-so/vork Rust 3D Metal raytracing engine</b>, and LangGraph-driven 3D architecture badge generators.
+</p>
+<p align="center">
+<a href="https://github.com/nanfengovo/better-me/tree/agent-os">BetterMe Agent OS (Source)</a> • 
+<a href="https://github.com/nanfengovo/better-me">BetterMe (Core)</a> • 
+<a href="https://nanfengovo.github.io/better-me/">Live Web Preview</a>
+</p>
+<div align="center">
+<img src="https://img.shields.io/badge/Electron-34-47848F?style=for-the-badge&logo=electron&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apple%20Silicon-Metal%20Raytracing-000000?style=for-the-badge&logo=apple&logoColor=white"/>
+<img src="https://img.shields.io/badge/Rust-vork%203D-DEA584?style=for-the-badge&logo=rust&logoColor=white"/>
+<img src="https://img.shields.io/badge/React%2019-Vite%20Tailwind-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/LangGraph-Multi--Agent-FF6F00?style=for-the-badge"/>
+</div>
+
+</td></tr><tr><td width="50%" valign="top">
 
 <h3 align="center">🏭 Smart Logistics & RCS</h3>
 <p align="center">
